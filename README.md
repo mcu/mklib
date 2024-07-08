@@ -2,11 +2,7 @@
 
 ```bash
   git clone https://github.com/mcu/mklib.git
-```
-```bash
   cd mklib
-```
-```
   make
 ```
 ![](img/output1.png)
